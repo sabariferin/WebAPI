@@ -1,0 +1,14 @@
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\bin\Debug\netcoreapp2.1\OMIWebAPI.deps.json
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\bin\Debug\netcoreapp2.1\OMIWebAPI.runtimeconfig.json
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\bin\Debug\netcoreapp2.1\OMIWebAPI.runtimeconfig.dev.json
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\bin\Debug\netcoreapp2.1\OMIWebAPI.dll
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.csprojAssemblyReference.cache
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.RazorAssemblyInfo.cache
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.RazorAssemblyInfo.cs
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.AssemblyInfoInputs.cache
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.AssemblyInfo.cs
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\bin\Debug\netcoreapp2.1\OMIWebAPI.pdb
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.dll
+C:\Users\sabari\source\repos\OMIWebAPI\OMIWebAPI\obj\Debug\netcoreapp2.1\OMIWebAPI.pdb
